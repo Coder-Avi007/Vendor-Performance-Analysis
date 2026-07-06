@@ -200,7 +200,7 @@ Vendor-Performance-Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vendor-performance-analysis.git
+git clone https://github.com/Coder-Avi007/vendor-performance-analysis.git
 ```
 
 ### 2. Install Required Libraries
